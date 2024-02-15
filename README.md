@@ -1,6 +1,7 @@
 # Portfolio With GEN-AI
 
 ## About the File Directory  
+
 **.streamlit/ :** Folder for storing config.toml  
 **images/ :** Images folder used for hobbies and CV  
 **pages/ :** Directory for adding pages by creating .py files  
